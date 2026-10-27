@@ -1,0 +1,7 @@
+Metric,Value
+True Negatives,1269505.0
+False Positives,1376.0
+False Negatives,78.0
+True Positives,1565.0
+False Positive Rate,0.0010827134877301652
+False Negative Rate,0.04747413268411443

@@ -1,0 +1,11 @@
+Feature,SHAP Importance
+type_CASH_OUT,0.022958
+step,0.025415
+oldbalanceDest,0.032895
+type_TRANSFER,0.038952
+newbalanceDest,0.041244
+type_PAYMENT,0.046575
+amount,0.061264
+oldbalanceOrg,0.081083
+newbalanceOrig,0.084067
+balance_change,0.142681

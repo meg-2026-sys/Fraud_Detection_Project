@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1 Score,ROC-AUC
+Logistic Regression,0.03,0.92,0.06,0.987410658
+Random Forest - Baseline,0.52,0.95,0.67,0.999126199
+Random Forest - Behavioral,0.53,0.95,0.68,0.999832809
